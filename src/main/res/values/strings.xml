@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Project</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="date_of_birth">date_of_birth</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login_screen">login screen</string>
+</resources>
